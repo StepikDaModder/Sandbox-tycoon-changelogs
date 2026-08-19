@@ -1,5 +1,5 @@
 # Sandbox-tycoon-changelogs
-Alpha 0.4.1
+Alpha 0.5
 - Added GUI buttons to the right
 - Added skill tree
 - Added Rebirths
