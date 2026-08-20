@@ -1,6 +1,6 @@
 # Sandbox-tycoon-changelogs
 Alpha 0.5
-- Added a command bar (open with , key) - commands: 
+- Added a command bar (open with , / R3 / - (no mobile access yet)) - commands: 
   - add [curr] [amount] - adds currency
   - set [curr] [amound] - sets currency
   - give [id] [amount] - gives item
