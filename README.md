@@ -6,6 +6,7 @@ Alpha 0.5
 - Added new items
 - Updated older item models
 - Upgraders now error when upgrading has failed
+- Added a new effect
 
 - Fixed inventory not refreshing
 - Fixed inventory not deleting items when used up / changing itemcounts
@@ -13,3 +14,5 @@ Alpha 0.5
 - Fixed error when ore with a lethal effect was deleted (not through its effect)
 - Fixed ore canons not having a use limit (still work, but don't change ore value)
 - Fixed GUIs overlapping with more than 1 on the screen
+- Fixed non-expiry effects showing an inf second duration
+- Fixed placing erroring when item preview hasn't moved
