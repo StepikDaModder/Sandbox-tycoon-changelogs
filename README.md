@@ -1,5 +1,11 @@
 # Sandbox-tycoon-changelogs
 Alpha 0.5
+- Added a command bar (open with ; key) - commands: 
+  - add [curr] [amount] - adds currency
+  - set [curr] [amound] - sets currency
+  - give [id] [amount] - gives item
+  - giveall - gives all items (x10) 
+- Placing items now requires owning the item / sufficient currency
 - Added GUI buttons to the right
 - Added skill tree
 - Added Rebirths
