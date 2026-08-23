@@ -25,3 +25,6 @@ Alpha 0.5
 - Fixed non-expiry effects showing an inf second duration
 - Fixed placing erroring when item preview hasn't moved
 - Fixed number formatting issues with values < 1e3
+- Fixed upgraders not registering interactables sometimes (finally)
+
+- Some items don't have icons due to a majority of them being reworked, or new
