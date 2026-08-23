@@ -15,6 +15,7 @@ Alpha 0.5
 - Upgraders now error when upgrading has failed
 - Added a new effect
 - Added a "Color" property to ores
+- Rebalanced some item prices
 
 - Fixed inventory not refreshing
 - Fixed inventory not deleting items when used up / changing itemcounts
