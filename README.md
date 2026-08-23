@@ -24,3 +24,4 @@ Alpha 0.5
 - Fixed GUIs overlapping with more than 1 on the screen
 - Fixed non-expiry effects showing an inf second duration
 - Fixed placing erroring when item preview hasn't moved
+- Fixed number formatting issues with values < 1e3
