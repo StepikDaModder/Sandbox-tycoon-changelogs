@@ -1,1 +1,32 @@
 #start
+# Sandbox-tycoon-changelogs
+Alpha 0.5
+- Added a command bar (open with , / L3 / - (no mobile access yet)) - commands: 
+  - add [curr] [amount] - adds currency
+  - set [curr] [amound] - sets currency
+  - give [id] [amount?] - gives item
+  - giveall - gives all items (x10) 
+- Placing items now requires owning the item / sufficient currency
+- Added console support (keybinds in settings) - console cursor - L3
+- Added GUI buttons to the right
+- Added skill tree
+- Added Rebirths
+- Added new items
+- Updated older item models
+- Upgraders now error when upgrading has failed
+- Added a new effect
+- Added a "Color" property to ores
+- Rebalanced some item prices
+
+- Fixed inventory not refreshing
+- Fixed inventory not deleting items when used up / changing itemcounts
+- Fixed Dropper descriptions listing effects incorrectly
+- Fixed error when ore with a lethal effect was deleted (not through its effect)
+- Fixed ore canons not having a use limit (still work, but don't change ore value)
+- Fixed GUIs overlapping with more than 1 on the screen
+- Fixed non-expiry effects showing an inf second duration
+- Fixed placing erroring when item preview hasn't moved
+- Fixed number formatting issues with values < 1e3
+- Fixed upgraders not registering interactables sometimes (finally)
+
+- Some items don't have icons due to a majority of them being reworked, or new
