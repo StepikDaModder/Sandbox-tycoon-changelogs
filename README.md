@@ -1,5 +1,5 @@
 # Sandbox-tycoon-changelogs
-Alpha 0.5.1
+Alpha 0.6
 - Added hydraulic systems
 - Made several existing items hydraulic
 - Added fueled upgraders
