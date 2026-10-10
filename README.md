@@ -4,6 +4,9 @@ Alpha 0.6
 - Made several existing items hydraulic
 - Added fueled upgraders
 - Added more items
+- Added ore limit
+- Added machine limit
+- Extended skill tree
 - Optimized network load
 - Conveyors are now client-sided
 - Rebalanced item prices
