@@ -1,5 +1,6 @@
 # Sandbox-tycoon-changelogs
 Alpha 0.6
+- Expanded server size to 5
 - Added hydraulic systems
 - Made several existing items hydraulic
 - Added fueled upgraders
@@ -10,9 +11,11 @@ Alpha 0.6
 - Optimized network load
 - Conveyors are now client-sided
 - Rebalanced item prices
+- Added prompt system (currently very buggy, will be fixed shortly)
 
 - Fixed rare item setup issues
 - Fixed Build mode issues
 - Fixed Inventory opening when moving
 - Fixed Converter Ramp and Raised Ore Cannon physics collisions
 - Fixed race issues with currency retrievals
+- Fixed respawning at other players' bases
