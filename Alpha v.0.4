@@ -6,3 +6,16 @@ Alpha 0.4.0
 - Fixed placement edge cases
 - Fixed placement rounding issues
 - Optimized placement - should be (almost) instant
+
+
+Alpha 0.4.1
+- Added item pooling (should improve mass move setup times, 5 items preloaded for each, if more are used - create them)
+- Fixed moving not starting at original item rotation
+- Fixed placement colliding with machines placed in the same placement cycle
+
+
+Alpha 0.4.2
+- Item functions now setup on client - reducing server load
+- Fixed upgraders not setting up correctly when placing before the first setup finishes during mass moving (should be very hard to do now, I only got it once after 5 minutes of deleting and building)
+- Added drag placing
+- Fixed error when pressing Q while drag placing
