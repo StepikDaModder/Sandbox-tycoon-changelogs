@@ -1,4 +1,8 @@
 Aplha 0.7.0
+- Added saving and loading
+- Added and reworked commands: 
+  `resetdata [delay?]` - Will reset your data and kick you. Can be delayed if needed.
+  `give [item] [amount?]` - Now accepts string ids in the format `soaring_upgrader`.
 - Added new items
 - Added teleporters
 - Added conveyor indicators
@@ -29,6 +33,8 @@ Aplha 0.7.0
 - Fixed invalid item position calculations
 - Fixed invalid itemdata links in a save file
 - Fixed invalid loading patterns upon joining
+- Fixed session lock errors, resulting in the game kicking you
+- Fixed saving errors when leaving too fast
 - Fixed removing items failing to cleanup unneeded data
 - Fixed items placed before full load not working properly
 - Fixed rare lookup errors with playerdata
@@ -37,7 +43,6 @@ Aplha 0.7.0
 - Ore Flamethrower price 5k -> 250k
 
 --TODO
-- Added saving and loading
 - Added build mode GUI
 - Added repeaters and evaluators
 - Added item crafting
